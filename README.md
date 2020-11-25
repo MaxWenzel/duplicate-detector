@@ -4,8 +4,7 @@ Building AI course project
 ## Summary
 
 Duplicates in the database or Excel sheet are not only annoying, but can also cost real money. An example is the multiple sending of information brochures to the same address.
-Using the latest AI technologies, the tool detects potential duplicates. These can then be removed or merged with other data entries.
-
+Using the latest AI technologies, the tool detects potential duplicates. 
 
 ## Background
 
