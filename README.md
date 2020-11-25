@@ -13,8 +13,8 @@ ust a small example: Are the following two data sets the same? Yes, no or maybe?
 
 | first name      | last name | city | street|
 | ----------- | ----------- |----------- |----------- |
-| Johannes      | Kayser       | Karlsruhe-Durlach | Hauptstrasse |
-| John   | Keiser        | Karlsruhe | Hauptstr. |
+| Johannes | Kayser | Karlsruhe-Durlach | Hauptstrasse |
+| John | Keiser | Karlsruhe | Hauptstr. |
 
 ## How is it used?
 
