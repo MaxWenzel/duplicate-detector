@@ -8,7 +8,7 @@ Using the latest AI technologies, the tool detects potential duplicates.
 
 ## Background
 
-What is a duplicate? How can a duplicate record be identified? "Data is the new oil." Many companies have now understood this wisdom and are now collecting all kinds of data. But collecting is only a first step. The data must be merged, stored, cleaned up (duplicates!) and analyzed. Buzzwords are Big Data, Fast Data and Smart Data.
+What is a duplicate? How can a duplicate record be identified? 'Data is the new oil.' Many companies have now understood this wisdom and are now collecting all kinds of data. But collecting is only a first step. The data must be merged, stored, cleaned up (duplicates!) and analyzed. Buzzwords are Big Data, Fast Data and Smart Data.
 ust a small example: Are the following two data sets the same? Yes, no or maybe?
 
 | first name      | last name | city | street|
